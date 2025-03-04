@@ -7,7 +7,7 @@
 - 🏗️ Building scalable web apps with **Next.js, Node.js, and MongoDB**
 - 📚 Learning **AWS, Docker, Kubernetes, and CI/CD** to become an industry-ready **DevOps Engineer**
 - 🎵 EDM Producer (Mixing in **FL Studio**) | Love **EDM Music**
-- 🎯 Preparing for **GSoC 2025** (Open HealthCare Network Contributor)
+- 🎯 Preparing for **GSoC 2025** 
 
 ---
 
@@ -34,9 +34,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔗 [GhumakkadTravel](https://github.com/ShyamBarua/GhumakkadTravel) - A Next.js travel app
-- 🎮 **Electrical Puzzles Game** (WIP) - An interactive Phaser-based puzzle game
 - 🤖 **Chatbot-based Ticketing System** - AI-powered museum ticketing system
+- 🏥 **Dr. Reach Project** - A healthcare communication and collaboration platform
+- 🛍️ **Buyzy E-commerce Web** - A scalable e-commerce platform
+- 🌐 **KES Web Page** - A responsive web page for KIIT Electrical Society
 
 📌 *Pinned repositories showcase my best work!*
 
@@ -50,6 +51,7 @@
 ---
 
 ### 📬 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=vercel&logoColor=white)](https://shyambarua-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-barua/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShyamBarua)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShyamBarua)  
