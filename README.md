@@ -6,7 +6,7 @@
 - 💻 Passionate about **Full-Stack Development, DevOps, and Cloud Computing**
 - 🏗️ Building scalable web apps with **Next.js, Node.js, and MongoDB**
 - 📚 Learning **AWS, Docker, Kubernetes, and CI/CD** to become an industry-ready **DevOps Engineer**
-- 🎵 EDM Producer (Mixing in **FL Studio**) | Love **Haryanvi Music**
+- 🎵 EDM Producer (Mixing in **FL Studio**) | Love **EDM Music**
 - 🎯 Preparing for **GSoC 2025** (Open HealthCare Network Contributor)
 
 ---
