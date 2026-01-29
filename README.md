@@ -1,61 +1,78 @@
-## 👋 Hi there, I'm Shyam Barua!  
-🚀 **MERN Stack Developer | DevOps Enthusiast | Open Source Contributor**
-
-### 🔥 About Me
-- 🎓 3rd-year **CSE student at KIIT University** (Graduating in 2026)
-- 💻 Passionate about **Full-Stack Development, DevOps, and Cloud Computing**
-- 🏗️ Building scalable web apps with **Next.js, Node.js, and MongoDB**
-- 📚 Learning **AWS, Docker, Kubernetes, and CI/CD** to become an industry-ready **DevOps Engineer**
-- 🎵 EDM Producer (Mixing in **FL Studio**) | Love **EDM Music**
-- 🎯 Preparing for **GSoC 2025** 
+## 👋 Hi, I’m Shyam Barua  
+🚀 **Software Engineer Intern Aspirant | Backend & Cloud Enthusiast | CS Undergraduate**
 
 ---
 
-### ⚡ Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A66C2?style=flat&logo=gitlab&logoColor=white)
+### 🔥 About Me
+- 🎓 Final-year **B.Tech CSE student at KIIT University** (Graduating 2026)
+- 💻 Interested in **Backend Engineering, Cloud Systems, and Distributed Applications**
+- 🧠 Strong fundamentals in **Operating Systems, Networking, DBMS, and Data Structures**
+- 🛠️ Hands-on experience with **REST APIs, Linux, Docker, AWS, and cloud-based apps**
+- 🔍 Enjoy debugging, performance optimization, and building reliable systems
+- 🎯 Preparing for **Software Engineering Internships & GSoC**
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+**Programming & Backend**
+- Java | JavaScript (Node.js) | Bash (basic)
+- RESTful APIs | Express.js | Async processing | Authentication flows
+
+**Databases**
+- MongoDB | MySQL
+
+**Cloud & Infrastructure**
+- AWS (EC2, S3, IAM, Monitoring)
+- Docker | Linux (Ubuntu)
+- Basic CI/CD concepts
+
+**Core CS**
+- Operating Systems
+- Computer Networks
+- DBMS
+- Data Structures & Algorithms
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 Cloud Budget Dashboard (AWS)
+- Cloud-based dashboard to monitor AWS usage and cost metrics  
+- Integrated AWS services with backend logic for usage tracking  
+- Focused on monitoring, permissions, and anomaly detection  
+
+#### 🔹 Revaa – Event Management Platform
+- Backend services for forms, email notifications, and APIs  
+- Debugged backend–database connectivity and validation issues  
+- Improved reliability of API responses  
+
+#### 🔹 Java Inventory Management System
+- Modular Java application using OOP principles  
+- Implemented CRUD operations with validation and exception handling  
+
+📌 *Pinned repositories showcase my most relevant work.*
 
 ---
 
 ### 📊 GitHub Stats
 ![Shyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamBarua&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShyamBarua&theme=dark)
 
 ---
 
-### 🚀 Featured Projects
-- 🤖 **Chatbot-based Ticketing System** - AI-powered museum ticketing system
-- 🏥 **Dr. Reach Project** - A healthcare communication and collaboration platform
-- 🛍️ **Buyzy E-commerce Web** - A scalable e-commerce platform
-- 🌐 **KES Web Page** - A responsive web page for KIIT Electrical Society
-
-📌 *Pinned repositories showcase my best work!*
+### 🌱 Currently Learning
+- Backend system design fundamentals
+- Messaging & async systems (queues, event-driven concepts)
+- C# & .NET basics (for backend and microservices exposure)
 
 ---
 
-### 🌱 What I'm Currently Learning
-- ✅ **Advanced JavaScript & Node.js** (for GSoC 2025)
-- ✅ **Next.js & TypeScript** (for scalable frontend development)
-- ✅ **AWS, Docker & Kubernetes** (for DevOps mastery)
-
----
-
-### 📬 Connect with Me
+### 📬 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=vercel&logoColor=white)](https://shyambarua-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-barua/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShyamBarua)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShyamBarua)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShyamBarua)
 
 ---
 
-🎯 *"Code. Build. Automate. Repeat."* 🚀
+⭐ *Always open to learning, collaboration, and building impactful software.*
