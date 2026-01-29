@@ -13,25 +13,53 @@
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### ⚙️ Tech Stack
 
-**Programming & Backend**
-- Java | JavaScript (Node.js) | Bash (basic)
-- RESTful APIs | Express.js | Async processing | Authentication flows
+#### 🧠 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Databases**
-- MongoDB | MySQL
+---
 
-**Cloud & Infrastructure**
-- AWS (EC2, S3, IAM, Monitoring)
-- Docker | Linux (Ubuntu)
-- Basic CI/CD concepts
+#### 🧩 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=fastapi&logoColor=white)
 
-**Core CS**
-- Operating Systems
-- Computer Networks
-- DBMS
-- Data Structures & Algorithms
+---
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+#### 🔧 DevOps & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=flat&logo=gitlab&logoColor=white)
+
+---
+
+#### 🖥️ Operating Systems & Networking
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-blue?style=flat)
+
+---
+
+#### 🧪 Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
