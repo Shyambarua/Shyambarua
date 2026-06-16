@@ -92,7 +92,6 @@
 ### 🌱 Currently Learning
 - Backend system design fundamentals
 - Messaging & async systems (queues, event-driven concepts)
-- C# & .NET basics (for backend and microservices exposure)
 
 ---
 
